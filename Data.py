@@ -60,5 +60,5 @@ class Data:
 
 لغة البوت : [بايثون](www.python.org)
 
-⚜️¦ المطور  : [ تگسن ](https://t.me/T_T_X_N)
+⚜️¦ المطور  : [ المطور تگسن ](https://t.me/T_T_X_N)
     """
